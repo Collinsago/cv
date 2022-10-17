@@ -1,0 +1,69 @@
+
+/*PROFILE 2 CSS*/
+.container{
+    padding: 10px;
+    margin: 10px;
+}
+.hed1{
+    float: left; 
+    margin-left: 80px; 
+    margin-top: 40px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+}
+
+.hed2{
+    float: right; 
+    margin-right: 80px; 
+    margin-top: 40px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+}
+.per{
+    color:blue; 
+    padding-left: 5%; 
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.experiences {
+padding: 30px;
+margin: 40px;
+background-color:rgb(238,251,255);
+border-radius: 30px;
+
+}
+.experience-item {
+padding: 10px;
+border-left: 1px solid rgba(137,130,247,.2);
+}
+h4{ 
+ color: blue;
+ }
+
+.half-width{
+      width: 30%;
+      float:left;
+      margin-bottom: 20px;
+}
+.side-img{
+    width:50%;
+    height:130%;
+    margin-left:80px;
+}
+.middle-width, p { 
+    font-size : 1.1em; 
+}
+b{
+    color:blue;
+    }
+
+.middle-width{
+    width: 70%;
+    float: left;
+}
+      
+
+
